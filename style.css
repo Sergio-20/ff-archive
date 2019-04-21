@@ -1,10 +1,10 @@
-  html {
-    overflow-x: hidden;
-  }
+ html {
+  overflow-x: hidden;
+ }
 
-  body {
-    background-color: #000 !important;
-  }
+ body {
+  background-color: #000 !important;
+ }
 
  article {
    border: 2px solid black;
@@ -25,14 +25,20 @@
    transform: scale(1.5) rotate(-20deg);
  }
 
- h1 {
+  .btn-margin  {
    margin-top: 12rem;
  }
 
- .row-1, .row-2 {
+ .row-1, .row-2, .row-3 {
    display: grid;
    grid-gap: 4rem;
    grid-template-columns: repeat( auto-fit, minmax( 250px, 1fr ) );
+ }
+
+ #img-static {
+   background: url("https://proxy.duckduckgo.com/iu/?u=http%3A%2F%2Fimages4.fanpop.com%2Fimage%2Fphotos%2F19900000%2FCloud-Strife-cloud-strife-19937486-1191-720.jpg&f=1") center center;
+   background-repeat: no-repeat;
+   background-size: cover;
  }
 
  #img-1 {
@@ -79,6 +85,30 @@
 
  #img-8 {
    background: url("https://proxy.duckduckgo.com/iu/?u=https%3A%2F%2Fthumbs.gfycat.com%2FHorribleWelcomeIchthyostega-size_restricted.gif&f=1") center center;
+   background-repeat: no-repeat;
+   background-size: cover;
+ }
+
+ #img-9 {
+   background: url("https://proxy.duckduckgo.com/iu/?u=https%3A%2F%2F78.media.tumblr.com%2F8a95b66305356268be815cc7e8fefca1%2Ftumblr_od2yd1H50u1u8moawo3_500.gif&f=1") center center;
+   background-repeat: no-repeat;
+   background-size: cover;
+ }
+
+ #img-10 {
+   background: url("https://proxy.duckduckgo.com/iu/?u=http%3A%2F%2Fmedia.giphy.com%2Fmedia%2FJgTggQ3kBMaQM%2Fgiphy.gif&f=1") center center;
+   background-repeat: no-repeat;
+   background-size: cover;
+ }
+
+ #img-11 {
+   background: url("https://proxy.duckduckgo.com/iu/?u=https%3A%2F%2F66.media.tumblr.com%2F7a6298cbcc3c67e9c947c28b1dab30a2%2Ftumblr_p5mxslxGfq1ryxuv2o3_500.gif&f=1") center center;
+   background-repeat: no-repeat;
+   background-size: cover;
+ }
+
+ #img-12 {
+   background: url("https://proxy.duckduckgo.com/iu/?u=http%3A%2F%2Fstatic.tumblr.com%2F5f04068a33133a55b9789092e27527ed%2Fdr10wpa%2FDAQn3xtng%2Ftumblr_static_5je07caeo3s4g8ok8g0gc88gs.gif&f=1") center center;
    background-repeat: no-repeat;
    background-size: cover;
  }
