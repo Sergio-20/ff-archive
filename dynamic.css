@@ -1,0 +1,91 @@
+article:hover {
+  border: 2px solid purple;
+  cursor: pointer;
+  transition: transform 0.8s;
+  transform: scale(1.5) rotate(20deg);
+}
+
+article:hover:nth-child(2), article:hover:nth-child(4){
+  border: 2px solid purple;
+  cursor: pointer;
+  transition: transform 0.8s;
+  transform: scale(1.5) rotate(-20deg);
+}
+
+#img-1 {
+  background: url("https://proxy.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia.giphy.com%2Fmedia%2F3GF477XfXsbvy%2Fgiphy.gif&f=1") center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+#img-2 {
+  background: url("https://proxy.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia.giphy.com%2Fmedia%2F12qVpeTtNphj4k%2Fgiphy.gif&f=1");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+#img-3 {
+  background: url("https://proxy.duckduckgo.com/iu/?u=http%3A%2F%2Fpa1.narvii.com%2F6155%2F56812b33e00e0242203fcce76428cef21fd977b1_00.gif&f=1");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+#img-4 {
+  background: url("https://proxy.duckduckgo.com/iu/?u=http%3A%2F%2F38.media.tumblr.com%2F919a7b9f9ae9c3d4847f8a486b27c3ff%2Ftumblr_nr3ihlzvNL1u6i0ico2_250.gif&f=1");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+#img-5 {
+  background: url("https://proxy.duckduckgo.com/iu/?u=https%3A%2F%2F68.media.tumblr.com%2F1d96b2b65ecb66bea0c6ad1e89fe49d3%2Ftumblr_ofcgn7eFtI1qmmy1mo5_r1_500.gif&f=1");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+#img-6 {
+  background: url("https://proxy.duckduckgo.com/iu/?u=https%3A%2F%2F68.media.tumblr.com%2F87f87dc1bfdfbb6691fe1b855a148336%2Ftumblr_oggr32nxV31sksh9qo4_500.gif&f=1") center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+#img-7 {
+  background: url("https://proxy.duckduckgo.com/iu/?u=https%3A%2F%2F66.media.tumblr.com%2Ff572f1f800b6769f177ea243de0fb649%2Ftumblr_ol0mdse6Sk1tl8pvno4_540.gif&f=1");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+#img-8 {
+  background: url("https://proxy.duckduckgo.com/iu/?u=https%3A%2F%2Fthumbs.gfycat.com%2FHorribleWelcomeIchthyostega-size_restricted.gif&f=1") center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+#img-9 {
+  background: url("https://proxy.duckduckgo.com/iu/?u=https%3A%2F%2F78.media.tumblr.com%2F8a95b66305356268be815cc7e8fefca1%2Ftumblr_od2yd1H50u1u8moawo3_500.gif&f=1") center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+#img-10 {
+  background: url("https://proxy.duckduckgo.com/iu/?u=http%3A%2F%2Fmedia.giphy.com%2Fmedia%2FJgTggQ3kBMaQM%2Fgiphy.gif&f=1") center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+#img-11 {
+  background: url("https://proxy.duckduckgo.com/iu/?u=https%3A%2F%2F66.media.tumblr.com%2F7a6298cbcc3c67e9c947c28b1dab30a2%2Ftumblr_p5mxslxGfq1ryxuv2o3_500.gif&f=1") center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+#img-12 {
+  background: url("https://proxy.duckduckgo.com/iu/?u=http%3A%2F%2Fstatic.tumblr.com%2F5f04068a33133a55b9789092e27527ed%2Fdr10wpa%2FDAQn3xtng%2Ftumblr_static_5je07caeo3s4g8ok8g0gc88gs.gif&f=1") center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+#img-src {
+  background: url("");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
