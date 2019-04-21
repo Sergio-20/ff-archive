@@ -1,0 +1,54 @@
+article {
+  background-repeat: no-repeat !important;
+  background-size: cover !important;
+}
+
+.hero {
+  background: url("https://proxy.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.wallpaperup.com%2Fuploads%2Fwallpapers%2F2014%2F12%2F25%2F565183%2Fe70c39223aa0b50eaea424568244af22.jpg&f=1") center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.two-articles article:nth-child(1) {
+  background: url("https://proxy.duckduckgo.com/iu/?u=http%3A%2F%2Fcdn.gamer-network.net%2F2017%2Fusgamer%2Fffvii_remake_missing_01.jpg&f=1") center center;
+}
+
+.two-articles article:nth-child(2) {
+  background: url("https://proxy.duckduckgo.com/iu/?u=http%3A%2F%2Fffshrine.org%2Fffxii%2Fwallpapers%2F12.jpg&f=1") center center;
+}
+
+.three-articles article:nth-child(1) {
+  background: url("https://proxy.duckduckgo.com/iu/?u=https%3A%2F%2Funsplashphoto.co%2Fwp-content%2Fuploads%2F2018%2F10%2Fffxiii-lightning-wallpapers-luxury-lightning-farron-wallpaper-hd-wallpaper-of-ffxiii-lightning-wallpapers.jpg&f=1") center center;
+}
+
+.three-articles article:nth-child(2) {
+  background: url("https://proxy.duckduckgo.com/iu/?u=http%3A%2F%2Fwww.picgifs.com%2Fwallpapers%2Fgames%2Ffinal-fantasy-8%2Fanimaatjes-final-fantasy-8-52289.jpg&f=1") center center;
+}
+
+.three-articles article:nth-child(3) {
+  background: url("https://proxy.duckduckgo.com/iu/?u=http%3A%2F%2Fimg1.wikia.nocookie.net%2F__cb20130524000159%2Ffinalfantasy%2Fimages%2F7%2F71%2FD012_Zidane_CG.png&f=1") center center;
+}
+
+.six-articles article:nth-child(1) {
+  background: url("https://proxy.duckduckgo.com/iu/?u=http%3A%2F%2Fcdn3.dualshockers.com%2Fwp-content%2Fuploads%2F2010%2F03%2FSephiroth_Fire.jpg&f=1") center center;
+}
+
+.six-articles article:nth-child(2) {
+  background: url("https://proxy.duckduckgo.com/iu/?u=http%3A%2F%2Fcdn3.dualshockers.com%2Fwp-content%2Fuploads%2F2015%2F11%2FDissidia-10.jpg&f=1") center center;
+}
+
+.six-articles article:nth-child(3) {
+  background: url("https://proxy.duckduckgo.com/iu/?u=https%3A%2F%2Fimages.gamewatcherstatic.com%2Fimage%2Ffile%2F2%2F0b%2F91362%2FFFXV_WINDOWS_EDITION_REVERSE_INLAY_Online_1517499238.jpg&f=1") center center;
+}
+
+.six-articles article:nth-child(4) {
+  background: url("https://proxy.duckduckgo.com/iu/?u=http%3A%2F%2Fimg1.wikia.nocookie.net%2F__cb20130524000157%2Ffinalfantasy%2Fimages%2F2%2F2b%2FD012_Squall_CG.png&f=1") center center;
+}
+
+.six-articles article:nth-child(5) {
+  background: url("https://proxy.duckduckgo.com/iu/?u=https%3A%2F%2Fi.pinimg.com%2Foriginals%2F54%2F19%2F4c%2F54194c3b1e5f2dc4fd8936ccf0b66060.png&f=1") center center;
+}
+
+.six-articles article:nth-child(6) {
+  background: url("https://proxy.duckduckgo.com/iu/?u=http%3A%2F%2Fhatsumi.files.wordpress.com%2F2013%2F09%2Fffxiv_09102013_205326.png&f=1") center center;
+}
