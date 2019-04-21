@@ -1,0 +1,185 @@
+article:hover {
+  border: 2px solid gold;
+  cursor: pointer;
+  transition: transform 0.8s;
+  transform: scale(1.5) rotate(20deg);
+}
+
+article:hover:nth-child(2), article:hover:nth-child(4){
+  border: 2px solid gold;
+  cursor: pointer;
+  transition: transform 0.8s;
+  transform: scale(1.5) rotate(-20deg);
+}
+
+/*Game Boxart Images*/
+
+.ff1-cover {
+  background: url("https://proxy.duckduckgo.com/iu/?u=https%3A%2F%2Fi.ytimg.com%2Fvi%2FaXb3q62X7Us%2Fmaxresdefault.jpg&f=1") center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.ff2-cover {
+  background: url("https://proxy.duckduckgo.com/iu/?u=https%3A%2F%2Fi.ytimg.com%2Fvi%2FopuQbCSai1I%2Fmaxresdefault.jpg&f=1") center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.ff3-cover {
+  background: url("https://proxy.duckduckgo.com/iu/?u=http%3A%2F%2Fvignette4.wikia.nocookie.net%2Fes.finalfantasy%2Fimages%2Fe%2Fe3%2FLogo_Final_Fantasy_III_DS.jpg%2Frevision%2Flatest%3Fcb%3D20080816165210&f=1") center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.ff4-cover {
+  background: url("https://proxy.duckduckgo.com/iu/?u=http%3A%2F%2F1.bp.blogspot.com%2F-85i3cWRumqw%2FUbWBwamRS3I%2FAAAAAAAABmY%2FCjflDVkB9rA%2Fw1200-h630-p-k-no-nu%2FFinal%2BFantasy%2BIV%2B-%2Bandroid%2Bapk%2Bdata%2B-%2Bgamebunkerz%2Bblogspot%2Bcom.jpg&f=1") center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.ff5-cover {
+  background: url("https://proxy.duckduckgo.com/iu/?u=http%3A%2F%2Fcabanadoleitor.com.br%2Fwp-content%2Fuploads%2F2015%2F09%2F363.png&f=1") center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.ff6-cover {
+  background: url("https://proxy.duckduckgo.com/iu/?u=https%3A%2F%2Ftse4.mm.bing.net%2Fth%3Fid%3DOIP.OAktvLoYaYl69K0SIwWO9QHaFj%26pid%3DApi&f=1") center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.ff7-cover {
+  background: url("https://proxy.duckduckgo.com/iu/?u=https%3A%2F%2Fcaffeinecrew.files.wordpress.com%2F2014%2F08%2Fffvii-banner1.jpg&f=1") center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.ff8-cover {
+  background: url("https://proxy.duckduckgo.com/iu/?u=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fit%2Fd%2Fd7%2FFinal_Fantasy_Logo_VIII.jpeg&f=1") center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.ff9-cover {
+  background: url("https://proxy.duckduckgo.com/iu/?u=http%3A%2F%2Fwww.ffshrine.org%2Fff9%2Fwallpapers%2F05.jpg&f=1") center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.ff10-cover {
+  background: url("https://proxy.duckduckgo.com/iu/?u=https%3A%2F%2Fi.ytimg.com%2Fvi%2F4i5p9GPaSM4%2Fmaxresdefault.jpg&f=1") center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.ff11-cover {
+  background: url("https://proxy.duckduckgo.com/iu/?u=https%3A%2F%2Ftse4.mm.bing.net%2Fth%3Fid%3DOIP.Dl0UxpL-nqKn4wnd0L635wHaEa%26pid%3DApi&f=1") center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.ff12-cover {
+  background: url("https://proxy.duckduckgo.com/iu/?u=http%3A%2F%2Fwww.finalfantasy.net%2Fwp-content%2Fuploads%2F2015%2F08%2F1210.png&f=1") center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.ff13-cover {
+  background: url("https://proxy.duckduckgo.com/iu/?u=http%3A%2F%2Fimg3.wikia.nocookie.net%2F__cb20120614005423%2Ffinalfantasy%2Fimages%2F9%2F94%2FFinal_Fantasy_XIII_Logo.jpg&f=1") center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.ff14-cover {
+  background: url("https://proxy.duckduckgo.com/iu/?u=https%3A%2F%2Fjustreveal.files.wordpress.com%2F2010%2F07%2Fffxiv-logo.jpg&f=1") center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.ff15-cover {
+  background: url("https://proxy.duckduckgo.com/iu/?u=http%3A%2F%2Fjpninfo.com%2Fwp-content%2Fuploads%2F2016%2F03%2Ffinal-fantasy-XV-logo.jpeg&f=1") center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+/*Character Images*/
+
+#img-1 {
+  background: url("https://proxy.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia.giphy.com%2Fmedia%2F3GF477XfXsbvy%2Fgiphy.gif&f=1") center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+#img-2 {
+  background: url("https://proxy.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia.giphy.com%2Fmedia%2F12qVpeTtNphj4k%2Fgiphy.gif&f=1");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+#img-3 {
+  background: url("https://proxy.duckduckgo.com/iu/?u=http%3A%2F%2Fpa1.narvii.com%2F6155%2F56812b33e00e0242203fcce76428cef21fd977b1_00.gif&f=1");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+#img-4 {
+  background: url("https://proxy.duckduckgo.com/iu/?u=http%3A%2F%2F38.media.tumblr.com%2F919a7b9f9ae9c3d4847f8a486b27c3ff%2Ftumblr_nr3ihlzvNL1u6i0ico2_250.gif&f=1");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+#img-5 {
+  background: url("https://proxy.duckduckgo.com/iu/?u=https%3A%2F%2F68.media.tumblr.com%2F1d96b2b65ecb66bea0c6ad1e89fe49d3%2Ftumblr_ofcgn7eFtI1qmmy1mo5_r1_500.gif&f=1");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+#img-6 {
+  background: url("https://proxy.duckduckgo.com/iu/?u=https%3A%2F%2F68.media.tumblr.com%2F87f87dc1bfdfbb6691fe1b855a148336%2Ftumblr_oggr32nxV31sksh9qo4_500.gif&f=1") center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+#img-7 {
+  background: url("https://proxy.duckduckgo.com/iu/?u=https%3A%2F%2F66.media.tumblr.com%2Ff572f1f800b6769f177ea243de0fb649%2Ftumblr_ol0mdse6Sk1tl8pvno4_540.gif&f=1");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+#img-8 {
+  background: url("https://proxy.duckduckgo.com/iu/?u=https%3A%2F%2Fthumbs.gfycat.com%2FHorribleWelcomeIchthyostega-size_restricted.gif&f=1") center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+#img-9 {
+  background: url("https://proxy.duckduckgo.com/iu/?u=https%3A%2F%2F78.media.tumblr.com%2F8a95b66305356268be815cc7e8fefca1%2Ftumblr_od2yd1H50u1u8moawo3_500.gif&f=1") center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+#img-10 {
+  background: url("https://proxy.duckduckgo.com/iu/?u=http%3A%2F%2Fmedia.giphy.com%2Fmedia%2FJgTggQ3kBMaQM%2Fgiphy.gif&f=1") center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+#img-11 {
+  background: url("https://proxy.duckduckgo.com/iu/?u=https%3A%2F%2F66.media.tumblr.com%2F7a6298cbcc3c67e9c947c28b1dab30a2%2Ftumblr_p5mxslxGfq1ryxuv2o3_500.gif&f=1") center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+#img-12 {
+  background: url("https://proxy.duckduckgo.com/iu/?u=http%3A%2F%2Fstatic.tumblr.com%2F5f04068a33133a55b9789092e27527ed%2Fdr10wpa%2FDAQn3xtng%2Ftumblr_static_5je07caeo3s4g8ok8g0gc88gs.gif&f=1") center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+#img-src {
+  background: url("");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
