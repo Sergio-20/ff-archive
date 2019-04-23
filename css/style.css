@@ -11,6 +11,10 @@
    margin: 4rem 0;
  }
 
+ a {
+   text-decoration: none !important;
+ }
+
  div {
    margin-bottom: 2rem;
    margin-top: 2rem;
