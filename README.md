@@ -6,4 +6,4 @@
 
  ### View Online
 
- > https://sergio-20.github.io/ff-archive/
+ > https://sergio-20.github.io/ff-archive/index.html
