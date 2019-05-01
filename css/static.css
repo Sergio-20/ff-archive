@@ -3,6 +3,10 @@ article:hover {
   cursor: pointer;
 }
 
+.heading-text {
+  margin-top: 10rem;
+}
+
 /*Game Boxart Images*/
 
 .ff1-cover {

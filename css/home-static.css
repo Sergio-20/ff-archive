@@ -9,10 +9,6 @@ article {
   background-size: cover;
 }
 
-.spotlight-text {
-  margin-top: 8rem;
-}
-
 .two-articles article:nth-child(1) {
   background: url("https://proxy.duckduckgo.com/iu/?u=http%3A%2F%2Fcdn.gamer-network.net%2F2017%2Fusgamer%2Fffvii_remake_missing_01.jpg&f=1") center center;
 }
