@@ -101,6 +101,12 @@ article:hover {
 
 /*Character Images*/
 
+#img-1 {
+  background: url("https://proxy.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia.giphy.com%2Fmedia%2F3GF477XfXsbvy%2Fgiphy.gif&f=1") center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
 #img-static-0 {
   background: url("https://proxy.duckduckgo.com/iu/?u=http%3A%2F%2Fimages4.fanpop.com%2Fimage%2Fphotos%2F19900000%2FCloud-Strife-cloud-strife-19937486-1191-720.jpg&f=1") center center;
   background-repeat: no-repeat;
